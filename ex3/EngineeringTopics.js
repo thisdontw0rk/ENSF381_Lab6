@@ -1,6 +1,6 @@
 import React from 'react';
 
-// Array of topics
+
 const topics = [
   {
     title: "Software Engineering",
@@ -20,7 +20,6 @@ const topics = [
   }
 ];
 
-// EngineeringTopics component definition
 const EngineeringTopics = () => {
   return (
     <div>
